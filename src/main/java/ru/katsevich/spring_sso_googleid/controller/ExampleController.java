@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.security.Principal;
 
 @RestController
-public class exampleController {
+public class ExampleController {
 
     @GetMapping("/")
     public String helloPage(){
