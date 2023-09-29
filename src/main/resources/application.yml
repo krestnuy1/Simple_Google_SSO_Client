@@ -4,8 +4,8 @@ spring:
       client:
         registration:
           google:
-            client-id: 789742733227-cm44o0vdkqn734ng26rqb0bg4qbivq5n.apps.googleusercontent.com
-            client-secret: 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
+            client-id: <-put your client id here->
+            client-secret: <-put your secret here->
 
 server:
   port: 8080
